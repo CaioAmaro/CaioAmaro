@@ -140,10 +140,6 @@ Estou comprometido em ser Especialista em Java, Spring e Angular.
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
 --- 
 
