@@ -2,17 +2,19 @@
 
 **`Desenvolvedor Júnior`** 
 
-Olá seja bem-vindo ao meu perfil do github. Me chamo Caio Amaro tenho **Formação** em **`Ciência da Computação`** 
+Olá seja bem-vindo ao meu perfil do github.
+**Estou à procura de uma oportunidade na área: Estágio ou Dev Júnior.** 👍
+Estou comprometido em ser Especialista em Java, Spring e Angular.
+
+
+**Formação**
+
+**`Ciência da Computação`** 
 
 **`Cursando`** <br/><br/>
 **`Pós-Graduação em Desenvolvimento de Software e Testes`** - faculdade Gran. (EaD)<br/><br/>
 **`Desenvolvimento FullStack e Cloud Computing`** - faculdade Gran.  (EaD)<br/><br/>
 **`Programação Java`** - Entra21 (Presencial)<br/><br/>
-
-**Estou à procura de uma oportunidade na área: Estágio ou Dev Júnior.** 👍
-
-Estou comprometido em ser Especialista em Java, Spring e Angular.
-
 
 <p align="left">
     <a href="https://www.linkedin.com/in/caio-amaro-146775190" target="_blank">
