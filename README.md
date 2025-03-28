@@ -2,7 +2,8 @@
 
 **`Desenvolvedor Júnior`**
 
-Olá seja bem-vindo ao meu perfil do github. Me chamo Caio Amaro tenho **Formação** em **`Ciência da Computação`** e atualmente **Cursando** **`Pós-Graduação em Desenvolvimento de Software e Testes`** e **`Desenvolvimento FullStack e Cloud Computing`** pela faculdade Gran.
+Olá seja bem-vindo ao meu perfil do github. Me chamo Caio Amaro tenho **Formação** em **`Ciência da Computação`** e atualmente **Cursando** **`Pós-Graduação em Desenvolvimento de Software e Testes`** e **`Desenvolvimento FullStack e Cloud Computing`** pela faculdade Gran. 
+e Entra21 - Java.
 
 **Estou à procura de uma oportunidade na área: Estágio ou Dev Júnior.** 👍
 
