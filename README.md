@@ -5,9 +5,9 @@
 Olá seja bem-vindo ao meu perfil do github. Me chamo Caio Amaro tenho **Formação** em **`Ciência da Computação`** 
 
 **Cursando** <br/>
-**`Pós-Graduação em Desenvolvimento de Software e Testes`** - faculdade Gran. (EaD)\\
-**`Desenvolvimento FullStack e Cloud Computing`** - faculdade Gran.  (EaD)\\
-**`Programação Java`** - Entra21 (Presencial)\\
+**`Pós-Graduação em Desenvolvimento de Software e Testes`** - faculdade Gran. (EaD)<br/>
+**`Desenvolvimento FullStack e Cloud Computing`** - faculdade Gran.  (EaD)<br/>
+**`Programação Java`** - Entra21 (Presencial)<br/>
 
 **Estou à procura de uma oportunidade na área: Estágio ou Dev Júnior.** 👍
 
