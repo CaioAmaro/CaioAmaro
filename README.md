@@ -1,6 +1,6 @@
 # 👨🏻‍💻Caio Amaro
 
-<span style="color:red">**`Desenvolvedor Júnior`**</span>
+```diff **`Desenvolvedor Júnior`** 
 
 Olá seja bem-vindo ao meu perfil do github. Me chamo Caio Amaro tenho **Formação** em **`Ciência da Computação`** 
 
