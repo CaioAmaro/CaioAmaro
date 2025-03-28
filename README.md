@@ -9,9 +9,9 @@ Estou comprometido em ser Especialista em Java, Spring e Angular.
 
 **Formação**
 
-**`Ciência da Computação`** 
+**`Ciência da Computação`** - Uninorte - Faculdade Universitário do norte (Presencial)<br/><br/>
 
-**`Cursando`** <br/><br/>
+**Cursando** <br/><br/>
 **`Pós-Graduação em Desenvolvimento de Software e Testes`** - faculdade Gran. (EaD)<br/><br/>
 **`Desenvolvimento FullStack e Cloud Computing`** - faculdade Gran.  (EaD)<br/><br/>
 **`Programação Java`** - Entra21 (Presencial)<br/><br/>
