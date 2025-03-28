@@ -182,7 +182,7 @@ Estou comprometido em ser Especialista em Java, Spring e Angular.
 - [X] Formação Aprenda a programar em Java com Orientação a Objetos  
 
 - [X] Formação Java Web: crie aplicações usando Spring Boot  
-- [ ] Formação Java e Spring Boot  
+- [X] Formação Java e Spring Boot  
 - [ ] Formação Boas Práticas em Java  
 - [ ] Formação Aprofunde em Java com Reflection, Gestão de Memória, Exceções, Threads, Build e JVM  
 
