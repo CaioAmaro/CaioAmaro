@@ -42,6 +42,13 @@ Estou comprometido em ser Especialista em Java, Spring e Angular.
         src="https://img.shields.io/badge/Portfólio-%230A74FF?style=for-the-badge&logo=react&logoColor=white" />
 </a>
 
+<a href="https://cursos.alura.com.br/vitrinedev/caioamaro" target="_blank">
+    <img 
+        alt="Portfólio" 
+        title="Visite meu portfólio" 
+        src="https://img.shields.io/badge/Portfólio-%230A74FF?style=for-the-badge&logo=react&logoColor=white" />
+</a>
+
 </p>
 
 ---
