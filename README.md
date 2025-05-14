@@ -196,6 +196,3 @@ Estou comprometido em ser Especialista em Java, Spring e Angular.
 - [ ] Formação Aprofunde em Java com arquitetura de Microsserviços, Spring e RabbitMQ  
 - [ ] Formação Arquitetura Java: do design de código à infraestrutura  
 - [ ] Formação Mensageria com Apache Kafka
-
-<script src="https://embed.github.com/view/3d/xiaoluoboding/skyline/master/CaioAmaro"></script>
-![3D GitHub Skyline](https://skyline.github.com/CaioAmaro/2025.svg)
