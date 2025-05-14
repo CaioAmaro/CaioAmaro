@@ -196,3 +196,6 @@ Estou comprometido em ser Especialista em Java, Spring e Angular.
 - [ ] Formação Aprofunde em Java com arquitetura de Microsserviços, Spring e RabbitMQ  
 - [ ] Formação Arquitetura Java: do design de código à infraestrutura  
 - [ ] Formação Mensageria com Apache Kafka
+
+
+https://github-profile-trophy.vercel.app/?username=CaioAmaro&title=Commits,Repositories,Experience,Stars
