@@ -188,7 +188,7 @@ Estou comprometido em ser Especialista em Java, Spring e Angular.
 - [X] Formação A partir do zero: iniciante em programação  
 - [X] Formação Aprenda a programar em Java com Orientação a Objetos  
 
-- [X] Formação Java Web: crie aplicações usando Spring Boot  
+- [X] Formação Java Web: crie aplicações usando Spring Boot  x
 - [X] Formação Java e Spring Boot  
 - [ ] Formação Boas Práticas em Java  
 - [ ] Formação Aprofunde em Java com Reflection, Gestão de Memória, Exceções, Threads, Build e JVM  
@@ -197,5 +197,5 @@ Estou comprometido em ser Especialista em Java, Spring e Angular.
 - [ ] Formação Arquitetura Java: do design de código à infraestrutura  
 - [ ] Formação Mensageria com Apache Kafka
 
-![trophy](https://github-profile-trophy.vercel.app/?username=CaioAmaro&title=Commits,Repositories,Experience,Stars)
+[![trophy](https://github-profile-trophy.vercel.app/?username=CaioAmaro&title=Commits,Repositories,Experience,Stars)]
 
