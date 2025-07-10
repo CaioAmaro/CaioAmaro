@@ -38,9 +38,9 @@
 
 
 📚 *Cursos e Formações em Andamentos* <br/>
-**Pós-graduação em Desenvolvimento de Software e Testes** – Faculdade Gran (EaD)  
-**Pós-graduação em Full Stack Development & Cloud Computing** – Faculdade Gran (EaD)  
-**Curso de Programação Java** – Entra21 (Presencial)  
+- **Pós-graduação em Desenvolvimento de Software e Testes** – Faculdade Gran (EaD)  
+- **Pós-graduação em Full Stack Development & Cloud Computing** – Faculdade Gran (EaD)  
+- **Curso de Programação Java** – Entra21 (Presencial)  
 
 ---
 
