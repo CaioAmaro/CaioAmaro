@@ -61,7 +61,7 @@ Sou apaixonado por tecnologia e desenvolvimento de software, com foco em me torn
 
 ---
 
-### 🧠 Tech Guide: Java & Spring
+### 🧠 Alura Tech Guide: Java & Spring Boot
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" title="Java" />
