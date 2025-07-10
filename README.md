@@ -1,16 +1,16 @@
-# 👨🏻‍💻 Caio Amaro
+<h1 align="center">👨🏻‍💻 Caio Amaro</h1>
 
-**`Desenvolvedor Full Stack Júnior`**
-
-Olá, seja bem-vindo ao meu perfil do GitHub!  
-Sou apaixonado por tecnologia e desenvolvimento de software, com foco em me tornar especialista em **Java, Spring Boot e Angular**.  
-📌 Atualmente, **estou em busca de uma oportunidade de estágio ou vaga Júnior** na área de desenvolvimento.  
+<p align="center">
+  <strong>Desenvolvedor Full Stack Júnior</strong><br/>
+  Apaixonado por tecnologia, em busca de uma oportunidade como <strong>Dev Júnior</strong> ou <strong>Estagiário</strong>. <br/>
+  Comprometido em me tornar especialista em <strong>Java, Spring Boot e Angular</strong>. 🚀
+</p>
 
 ---
 
-### 🌐 Contatos e Perfis
+## 🌐 Contatos e Perfis
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/caio-amaro-146775190" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%234A6E99?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -30,61 +30,61 @@ Sou apaixonado por tecnologia e desenvolvimento de software, com foco em me torn
 
 ---
 
-### 🎓 Formação Acadêmica
+## 🎓 Formação Acadêmica
 
-- **Bacharelado em Ciência da Computação** – Uninorte (Presencial)  
-  ✅ *Concluído*
+🎓 **Bacharelado em Ciência da Computação** – Uninorte (Presencial)  
+✅ *Concluído*
 
-- **Pós-graduação em Desenvolvimento de Software e Testes** – Faculdade Gran (EaD)  
-  📚 *Em andamento*
+🎓 **Pós-graduação em Desenvolvimento de Software e Testes** – Faculdade Gran (EaD)  
+📚 *Em andamento*
 
-- **Pós-graduação em Full Stack Development & Cloud Computing** – Faculdade Gran (EaD)  
-  📚 *Em andamento*
+🎓 **Pós-graduação em Full Stack Development & Cloud Computing** – Faculdade Gran (EaD)  
+📚 *Em andamento*
 
-- **Curso de Programação Java** – Entra21 (Presencial)  
-  📚 *Em andamento*
+🎓 **Curso de Programação Java** – Entra21 (Presencial)  
+📚 *Em andamento*
 
 ---
 
-### 🧰 Tech Stack
+## 🧰 Stack de Tecnologias
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" title="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="30" title="Spring Boot"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="30" title="Angular"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" title="HTML"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" title="CSS"/>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" title="Spring Boot"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" title="Angular"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS"/>
 </p>
 
 ---
 
-### 📈 GitHub Stats
+## 📊 GitHub Stats
 
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caioamaro&show_icons=true&theme=dark&locale=pt-br" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioamaro&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" />
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caioamaro&show_icons=true&theme=tokyonight&locale=pt-br" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioamaro&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
 </p>
 
 ---
 
-### 🧠 Alura Tech Guide: Java & Spring Boot
+## 📘 Alura Tech Guide: Java & Spring Boot
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" title="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="30" title="Spring" />
 </p>
 
-#### ✅ Concluídas
+### ✅ Formações Concluídas
 
-- Formação: A partir do zero - Iniciante em Programação  
-- Formação: Java com Orientação a Objetos  
-- Formação: Java Web com Spring Boot  
-- Formação: Java e Spring Boot  
-- Formação: Boas Práticas em Java  
-- Formação: Avançado em Java - Reflection, Memória, Exceções, Threads, Build e JVM  
+- A partir do Zero: Iniciante em Programação  
+- Java com Orientação a Objetos  
+- Java Web com Spring Boot  
+- Java e Spring Boot  
+- Boas Práticas em Java  
+- Avançado em Java (Reflection, Memória, Exceções, Threads, Build e JVM)
 
-#### 🔜 Em andamento
+### 🔜 Em andamento
 
 - Arquitetura com Microsserviços, Spring e RabbitMQ  
 - Arquitetura Java: do design de código à infraestrutura  
@@ -92,6 +92,8 @@ Sou apaixonado por tecnologia e desenvolvimento de software, com foco em me torn
 
 ---
 
-### 🏆 Conquistas
+## 🏆 Conquistas
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=CaioAmaro&title=Commits,Repositories,Experience,Stars&theme=darkhub)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=CaioAmaro&title=Commits,Repositories,Experience,Stars&theme=tokyonight" />
+</p>
