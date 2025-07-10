@@ -36,10 +36,10 @@
 **Bacharelado em Ciência da Computação** – Uninorte (Presencial)  
 ✅ *Concluído*
 
+📚 *Cursos e Formações em Andamentos*
 **Pós-graduação em Desenvolvimento de Software e Testes** – Faculdade Gran (EaD)  
 **Pós-graduação em Full Stack Development & Cloud Computing** – Faculdade Gran (EaD)  
 **Curso de Programação Java** – Entra21 (Presencial)  
-📚 *Em andamento*
 
 ---
 
