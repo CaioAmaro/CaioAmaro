@@ -8,12 +8,19 @@ Sou apaixonado por tecnologia e desenvolvimento de software, com foco em me torn
 
 ---
 
-### 🎓 Formação Acadêmica
+## 🎓 Formação Acadêmica
 
-- **Ciência da Computação** – Uninorte (Presencial)  
+- **Bacharelado em Ciência da Computação** – Uninorte (Presencial)  
+  ✅ *Concluído*
+
 - **Pós-graduação em Desenvolvimento de Software e Testes** – Faculdade Gran (EaD)  
+  📚 *Em andamento*
+
 - **Pós-graduação em Full Stack Development & Cloud Computing** – Faculdade Gran (EaD)  
-- **Curso de Programação Java** – Entra21 (Presencial)
+  📚 *Em andamento*
+
+- **Curso de Programação Java** – Entra21 (Presencial)  
+  📚 *Em andamento*
 
 ---
 
