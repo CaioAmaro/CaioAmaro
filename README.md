@@ -34,7 +34,7 @@
 ## 🎓 Formação Acadêmica
 
 ✅ *Formação concluída* <br/>
-**Bacharelado em Ciência da Computação** – Uninorte (Presencial)  
+- **Bacharelado em Ciência da Computação** – Uninorte (Presencial)  
 
 
 📚 *Cursos e Formações em Andamentos* <br/>
