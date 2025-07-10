@@ -1,201 +1,90 @@
-# 👨🏻‍💻Caio Amaro
+# 👨🏻‍💻 Caio Amaro
 
-**`Desenvolvedor Júnior`** 
+**`Desenvolvedor Full Stack Júnior`**
 
-Olá seja bem-vindo ao meu perfil do github.
-**Estou à procura de uma oportunidade na área: Estágio ou Dev Júnior.** 👍
-Estou comprometido em ser Especialista em Java, Spring e Angular.
+Olá, seja bem-vindo ao meu perfil do GitHub!  
+Sou apaixonado por tecnologia e desenvolvimento de software, com foco em me tornar especialista em **Java, Spring Boot e Angular**.  
+📌 Atualmente, **estou em busca de uma oportunidade de estágio ou vaga Júnior** na área de desenvolvimento.  
 
+---
 
-**Formação**
+### 🎓 Formação Acadêmica
 
-**`Ciência da Computação`** - Uninorte - Faculdade Universitário do norte (Presencial)<br/><br/>
+- **Ciência da Computação** – Uninorte (Presencial)  
+- **Pós-graduação em Desenvolvimento de Software e Testes** – Faculdade Gran (EaD)  
+- **Pós-graduação em Full Stack Development & Cloud Computing** – Faculdade Gran (EaD)  
+- **Curso de Programação Java** – Entra21 (Presencial)
 
-**Cursando** <br/><br/>
-**`Pós-Graduação em Desenvolvimento de Software e Testes`** - faculdade Gran. (EaD)<br/><br/>
-**`Desenvolvimento FullStack e Cloud Computing`** - faculdade Gran.  (EaD)<br/><br/>
-**`Programação Java`** - Entra21 (Presencial)<br/><br/>
+---
+
+### 🌐 Contatos e Perfis
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/caio-amaro-146775190" target="_blank">
-        <img 
-            alt="LinkedIn Profile" 
-            title="Visite meu perfil no LinkedIn" 
-            src="https://img.shields.io/badge/LinkedIn-%234A6E99?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="https://cursos.alura.com.br/user/caioamaro" target="_blank">
-    <img 
-        alt="Alura Profile" 
-        title="Visite meu perfil na Alura" 
-        src="https://img.shields.io/badge/Alura-%23000000?style=for-the-badge&logo=alura&logoColor=white" />
-</a>
-<a href="https://www.duolingo.com/profile/Hamnarok1" target="_blank">
-    <img 
-        alt="Duolingo Profile" 
-        title="Visite meu perfil no Duolingo" 
-        src="https://img.shields.io/badge/Duolingo-%2300B140?style=for-the-badge&logo=duolingo&logoColor=white" />
-</a>
-<a href="https://curriculo-ux.vercel.app/" target="_blank">
-    <img 
-        alt="Portfólio" 
-        title="Visite meu portfólio" 
-        src="https://img.shields.io/badge/Portfólio-%230A74FF?style=for-the-badge&logo=react&logoColor=white" />
-</a>
-
-<a href="https://cursos.alura.com.br/vitrinedev/caioamaro" target="_blank">
-    <img 
-        alt="Portfólio" 
-        title="Visite meu portfólio" 
-        src="https://img.shields.io/badge/Portfólio-%230A74FF?style=for-the-badge&logo=react&logoColor=white" />
-</a>
-
+  <a href="https://www.linkedin.com/in/caio-amaro-146775190" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%234A6E99?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://cursos.alura.com.br/user/caioamaro" target="_blank">
+    <img alt="Alura" src="https://img.shields.io/badge/Alura-%23000000?style=for-the-badge&logo=alura&logoColor=white" />
+  </a>
+  <a href="https://www.duolingo.com/profile/Hamnarok1" target="_blank">
+    <img alt="Duolingo" src="https://img.shields.io/badge/Duolingo-%2300B140?style=for-the-badge&logo=duolingo&logoColor=white" />
+  </a>
+  <a href="https://curriculo-ux.vercel.app/" target="_blank">
+    <img alt="Portfólio" src="https://img.shields.io/badge/Portfólio-%230A74FF?style=for-the-badge&logo=react&logoColor=white" />
+  </a>
+  <a href="https://cursos.alura.com.br/vitrinedev/caioamaro" target="_blank">
+    <img alt="Vitrine Dev" src="https://img.shields.io/badge/Vitrine_Dev-%230A74FF?style=for-the-badge&logo=react&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-<p>
+### 🧰 Tech Stack
 
-### Stack
-
-<img 
-    align="left" 
-    alt="Java"
-    title="Java" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Spring"
-    title="Spring" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Angular" 
-    title="Angular"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" 
-/>
-
-<br/>
-<br/>
-
-### Infomações
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=caioamaro&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioamaro&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="30" title="Spring Boot"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="30" title="Angular"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" title="HTML"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" title="CSS"/>
 </p>
 
+---
+
+### 📈 GitHub Stats
+
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caioamaro&show_icons=true&theme=dark&locale=pt-br" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioamaro&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" />
 </p>
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+---
 
---- 
+### 🧠 Tech Guide: Java & Spring
 
-### 🧠 Alura Tech Guide: Java & Spring Boot
-
-<br>
-
-<p>
-
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
-/>
-
-## Java & Spring
-
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" title="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="30" title="Spring" />
 </p>
 
-- [X] Formação A partir do zero: iniciante em programação  
-- [X] Formação Aprenda a programar em Java com Orientação a Objetos  
+#### ✅ Concluídas
 
-- [X] Formação Java Web: crie aplicações usando Spring Boot
-- [X] Formação Java e Spring Boot  
-- [X] Formação Boas Práticas em Java  
-- [X] Formação Aprofunde em Java com Reflection, Gestão de Memória, Exceções, Threads, Build e JVM  
+- Formação: A partir do zero - Iniciante em Programação  
+- Formação: Java com Orientação a Objetos  
+- Formação: Java Web com Spring Boot  
+- Formação: Java e Spring Boot  
+- Formação: Boas Práticas em Java  
+- Formação: Avançado em Java - Reflection, Memória, Exceções, Threads, Build e JVM  
 
-- [ ] Formação Aprofunde em Java com arquitetura de Microsserviços, Spring e RabbitMQ  
-- [ ] Formação Arquitetura Java: do design de código à infraestrutura  
-- [ ] Formação Mensageria com Apache Kafka
+#### 🔜 Em andamento
 
-![trophy](https://github-profile-trophy.vercel.app/?username=CaioAmaro&title=Commits,Repositories,Experience,Stars)
+- Arquitetura com Microsserviços, Spring e RabbitMQ  
+- Arquitetura Java: do design de código à infraestrutura  
+- Mensageria com Apache Kafka  
 
+---
+
+### 🏆 Conquistas
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=CaioAmaro&title=Commits,Repositories,Experience,Stars&theme=darkhub)
