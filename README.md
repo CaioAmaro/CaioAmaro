@@ -33,7 +33,7 @@
 
 ## 🎓 Formação Acadêmica
 
-✅ *Formação concluída*
+✅ *Formação concluída* <br/>
 **Bacharelado em Ciência da Computação** – Uninorte (Presencial)  
 
 
