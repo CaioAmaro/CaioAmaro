@@ -8,22 +8,6 @@ Sou apaixonado por tecnologia e desenvolvimento de software, com foco em me torn
 
 ---
 
-### 🎓 Formação Acadêmica
-
-- **Bacharelado em Ciência da Computação** – Uninorte (Presencial)  
-  ✅ *Concluído*
-
-- **Pós-graduação em Desenvolvimento de Software e Testes** – Faculdade Gran (EaD)  
-  📚 *Em andamento*
-
-- **Pós-graduação em Full Stack Development & Cloud Computing** – Faculdade Gran (EaD)  
-  📚 *Em andamento*
-
-- **Curso de Programação Java** – Entra21 (Presencial)  
-  📚 *Em andamento*
-
----
-
 ### 🌐 Contatos e Perfis
 
 <p align="left">
@@ -43,6 +27,22 @@ Sou apaixonado por tecnologia e desenvolvimento de software, com foco em me torn
     <img alt="Vitrine Dev" src="https://img.shields.io/badge/Vitrine_Dev-%230A74FF?style=for-the-badge&logo=react&logoColor=white" />
   </a>
 </p>
+
+---
+
+### 🎓 Formação Acadêmica
+
+- **Bacharelado em Ciência da Computação** – Uninorte (Presencial)  
+  ✅ *Concluído*
+
+- **Pós-graduação em Desenvolvimento de Software e Testes** – Faculdade Gran (EaD)  
+  📚 *Em andamento*
+
+- **Pós-graduação em Full Stack Development & Cloud Computing** – Faculdade Gran (EaD)  
+  📚 *Em andamento*
+
+- **Curso de Programação Java** – Entra21 (Presencial)  
+  📚 *Em andamento*
 
 ---
 
