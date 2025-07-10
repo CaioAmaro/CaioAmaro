@@ -2,6 +2,7 @@
 
 <p align="center">
   <strong>Desenvolvedor Full Stack Júnior</strong><br/>
+  <br/>
   Apaixonado por tecnologia, em busca de uma oportunidade como <strong>Dev Júnior</strong> ou <strong>Estagiário</strong>. <br/>
   Comprometido em me tornar especialista em <strong>Java, Spring Boot e Angular</strong>. 🚀
 </p>
