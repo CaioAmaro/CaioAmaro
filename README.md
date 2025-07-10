@@ -37,11 +37,7 @@
 ✅ *Concluído*
 
 **Pós-graduação em Desenvolvimento de Software e Testes** – Faculdade Gran (EaD)  
-📚 *Em andamento*
-
 **Pós-graduação em Full Stack Development & Cloud Computing** – Faculdade Gran (EaD)  
-📚 *Em andamento*
-
 **Curso de Programação Java** – Entra21 (Presencial)  
 📚 *Em andamento*
 
