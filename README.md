@@ -33,8 +33,9 @@
 
 ## 🎓 Formação Acadêmica
 
+✅ *Formação concluída*
 **Bacharelado em Ciência da Computação** – Uninorte (Presencial)  
-✅ *Concluído*
+
 
 📚 *Cursos e Formações em Andamentos* <br/>
 **Pós-graduação em Desenvolvimento de Software e Testes** – Faculdade Gran (EaD)  
