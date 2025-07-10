@@ -8,7 +8,7 @@ Sou apaixonado por tecnologia e desenvolvimento de software, com foco em me torn
 
 ---
 
-## 🎓 Formação Acadêmica
+### 🎓 Formação Acadêmica
 
 - **Bacharelado em Ciência da Computação** – Uninorte (Presencial)  
   ✅ *Concluído*
