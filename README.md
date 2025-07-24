@@ -44,6 +44,15 @@
 
 ---
 
+
+## 🎓 Área de Interesse <br/><br/>
+
+📚 *Cursos e Formações em Andamentos* <br/>
+- **Minhas áreas de interesse são Arquitetura de Microsserviços e Computação em Nuvem (Cloud).
+
+
+---
+
 ## 🧰 Stack de Tecnologias
 
 <p align="center">
