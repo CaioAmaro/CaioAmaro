@@ -47,8 +47,13 @@
 
 ## 🧐 Área de Interesse <br/><br/>
 
-- **Minhas áreas de interesse são Arquitetura de Microsserviços e Computação em Nuvem (Cloud).
-
+- **Arquitetura de Microsserviços**
+- **Arquitetura de Computação em Nuvem (Cloud)**
+- **Engenharia de Software**
+- **DevOps**
+- **Java** - **Spring-Boot**
+- **Angular**
+- **bootstrap**
 
 ---
 
