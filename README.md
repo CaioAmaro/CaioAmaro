@@ -53,7 +53,7 @@
 - **DevOps**
 - **Java** - **Spring-Boot**
 - **Angular**
-- **bootstrap**
+- **Bootstrap**
 
 ---
 
